@@ -1,26 +1,19 @@
-\<p align="center"\>  
-\<img src="docs/banner-memrag-gcp.png"  
-alt="FoundLab — Mem-RAG V2 Compliance Orchestrator (GCP Edition)"  
-width="100%" /\>  
-\</p\>
+<p align="center">
+<img src="https://i.ibb.co/ccj8Mdky/LOGO-OK1.png" alt="FoundLab" width="180" />
+</p>
 
-\<div align="center"\>
 
 # **FoundLab — Mem-RAG V2 Compliance Orchestrator**
 
 ### **Google Cloud Platform Edition**
 
-\<p align="center"\>  
-\<a href="\#-overview"\>\<img alt="FoundLab \- Mem-RAG V2"  
-src="https://img.shields.io/badge/FoundLab-Mem--RAG%20V2-111827?style=for-the-badge" /\>\</a\>  
-\<a href="\#-arquitetura-da-solução"\>\<img alt="Google Cloud"  
-src="https://img.shields.io/badge/Google\_Cloud-Cloud\_Run\_%7C\_Vertex\_AI\_%7C\_BigQuery-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white" /\>\</a\>  
-\<a href="\#-proposta-de-valor-a-arma-regulatória-protocolo-veritas"\>\<img alt="Compliance-Ready"  
-src="https://img.shields.io/badge/Compliance-Auditável\_%7C\_WORM\_%7C\_Veritas-7C3AED?style=for-the-badge" /\>\</a\>  
-\<a href="\#%EF%B8%8F-licença"\>\<img alt="License"  
-src="https://img.shields.io/badge/License-Apache--2.0-4B5563?style=for-the-badge" /\>\</a\>  
-\</p\>  
-\</div\>
+<p align="center">
+  <a href="#-overview"><img alt="FoundLab - Mem-RAG V2" src="https://img.shields.io/badge/FoundLab-Mem--RAG%20V2-111827?style=for-the-badge" /></a>
+  <a href="#-arquitetura-da-solução"><img alt="Google Cloud Stack" src="https://img.shields.io/badge/Google_Cloud-Run_%7C_Vertex_AI_%7C_BigQuery-4285F4?style=for-the-badge&logo=google-cloud" /></a>
+  <a href="#-proposta-de-valor"><img alt="Architecture" src="https://img.shields.io/badge/Architecture-Serverless_%7C_Stateless-0F766E?style=for-the-badge" /></a>
+  <a href="#-auditabilidade"><img alt="Compliance Ready" src="https://img.shields.io/badge/Compliance-Auditável_%7C_WORM_%7C_Veritas-7C3AED?style=for-the-badge" /></a>
+  <a href="#-licença"><img alt="License" src="https://img.shields.io/badge/License-Apache--2.0-4B5563?style=for-the-badge" /></a>
+</p>
 
 ## **📋 Visão Geral: Quebrando o Paradigma da Caixa-Preta**
 
@@ -273,8 +266,7 @@ O contrato de saída que a solução garante para o seu microsserviço.
 
 Distribuído sob a licença **Apache 2.0**. Veja o arquivo LICENSE para mais detalhes.
 
-\<p align="center"\>  
-\<strong\>FoundLab Cloud Solutions\</strong\>
+<p align="center">
+<img src="https://i.ibb.co/ccj8Mdky/LOGO-OK1.png" alt="FoundLab" width="180" />
+</p>
 
-\<em\>Building Trust in Generative AI.\</em\>  
-\</p\>
